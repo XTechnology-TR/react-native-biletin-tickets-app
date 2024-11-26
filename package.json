@@ -50,7 +50,7 @@
     "react-redux": "^8.0.2",
     "react-router": "^6.3.0",
     "redux": "^4.2.0",
-    "expo-updates": "~0.14.5"
+    "expo-updates": "~0.26.4"
   },
   "devDependencies": {
     "@babel/core": "^7.18.6"
